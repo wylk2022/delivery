@@ -1,0 +1,60 @@
+/* Custom Stylesheet */
+/**
+ * Use this file to override Materialize files so you can update
+ * the core Materialize files in the future
+ *
+ * Made By MaterializeCSS.com
+ */
+
+nav {
+     height: 160PX;
+
+}
+
+nav ul a {color: black;
+          font-size: 22px;
+          padding-top: 25px;
+          margin-top: 25px;
+          font-weight: bold;
+          
+
+}
+
+#logo {width: 150px;}
+
+h2 {text-align: center;}
+
+h4 {font-weight: bold;
+          color: black;
+          font-size: 22px;
+          text-align: center;
+
+}
+
+.paragrafo { 
+     font-size: 20px;
+     text-align: justify;
+     text-indent: 30px;
+     line-height: 1.5;
+     padding-left: 120px;
+     margin-top: 50px;
+
+
+}
+
+#seta {width: 50px;}
+
+.page-footer {background-color: black;height: 160px;}
+
+.rede {width: 50px;}
+
+#col1, #col3 {display: flex;justify-content: center;}
+
+.material-icons {
+     color: blueviolet;
+     
+     
+
+}
+
+/* i {} */
